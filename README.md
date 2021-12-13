@@ -38,7 +38,9 @@ https://user-images.githubusercontent.com/84944042/145739481-5959bb28-3250-45dd-
 <br>
 3. Copy the transaction ID and search in mempool.space and wait for one confirmation, upon a confirmation, refresh the imported wallet in Bluewallet and the funds should appear. A confirmation implies the block your transaction is inside moves from left side to the right side (from blue to green color).
 <br>
-![Search Mempool](./resources/mempool.MP4)
+
+https://user-images.githubusercontent.com/84944042/145740585-2f8f1b8e-8856-42db-8ad0-99e3fc3fb04d.mov
+
 <br>
 4. After all transactions have at least one confirmation, all funds should appear in bluewallet. Note that, if any of the closures are force closures, there will be a timelock for you to spend those funds. DO NOT POWER OFF THE NODE UNTIL ALL CHANNELS ARE FULLY CLOSED. Ideally wait upto 3 weeks before powering off the node to make sure all funds have returned.
 <br>
