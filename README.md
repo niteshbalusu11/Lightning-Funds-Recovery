@@ -30,6 +30,7 @@ Then enter the password/hardware key to access the node.
 https://user-images.githubusercontent.com/84944042/145739503-e7865cc7-16d8-422e-9105-89d5cf39ca5a.MP4
 
 <br>
+<br>
 2. Close All Channels: Type this command `lncli closeallchannels` and hit enter. (On umbrel nodes it is, `~/bin/lncli closeallchannels`. This command cooperatively closes channels that are online and force closes all offline channels. It should give a closing trasaction ID for each every channel.
 <br>
 
@@ -41,6 +42,7 @@ https://user-images.githubusercontent.com/84944042/145739481-5959bb28-3250-45dd-
 
 https://user-images.githubusercontent.com/84944042/145740585-2f8f1b8e-8856-42db-8ad0-99e3fc3fb04d.mov
 
+<br>
 <br>
 4. After all transactions have at least one confirmation, all funds should appear in bluewallet. Note that, if any of the closures are force closures, there will be a timelock for you to spend those funds. DO NOT POWER OFF THE NODE UNTIL ALL CHANNELS ARE FULLY CLOSED. Ideally wait upto 3 weeks before powering off the node to make sure all funds have returned.
 <br>
