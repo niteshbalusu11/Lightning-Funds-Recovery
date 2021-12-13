@@ -17,7 +17,8 @@ This document covers LND Nodes only and does not aim to cover step by step instr
 The easiest way one can access their onchain wallet is by importing the 24 word seed phrase into bluewallet. Download BlueWallet on your smart phone, hit the plus icon and select import wallet and enter the 24 words with spaces in between to perform the import.
 Importing seed into bluewallet gives access to onchain funds in your LND wallet and can be spent or moved to another wallet.
 <br>
-![Import Seed Into BlueWallet](./resources/bluewalletImport.MP4)
+
+https://user-images.githubusercontent.com/84944042/145740249-13a81784-89ca-4587-819d-c0c8ea20ec7f.mov
 
 <br>
 
