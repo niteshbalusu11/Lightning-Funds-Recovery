@@ -1,4 +1,4 @@
-## Recover Funds on the Lightning Network for your family.
+## Recover Funds on the Lightning Network for your Family.
 <br>
 The goal of this document is to help your family recover offchain funds or funds in your lightning channels in case a tragic event occurs to the node operator such as death.
 
