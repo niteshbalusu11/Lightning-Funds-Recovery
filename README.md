@@ -1,4 +1,9 @@
 ## Recover Funds on the Lightning Network for your Family.
+
+### Don't take your private keys to your grave.
+
+https://www.youtube.com/watch?v=Pz4io1CQh34
+
 <br>
 The goal of this document is to help your family recover offchain funds or funds in your lightning channels in case a tragic event occurs to the node operator such as death.
 
