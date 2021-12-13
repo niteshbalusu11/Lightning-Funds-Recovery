@@ -12,6 +12,15 @@ This document covers LND Nodes only and does not aim to cover step by step instr
 3. SSH Access (Host@domainname/IPaddress and SSH Access Password or hardware keys)
 
 <br>
+<br>
+Need help? Plebs are always willing to help, download the telegram app and join the telegram group `PLEBNET` and ask for help.
+https://t.me/plebnet or visit https://plebnet.wiki
+
+<br>
+
+DO NOT EVER GIVE ANYONE the seed phrase, wallet password or SSH Password. YOUR FUNDS WILL BE STOLEN IF YOU DO.
+
+<br>
 
 ### Accessing the wallet:
 The easiest way one can access their onchain wallet is by importing the 24 word seed phrase into bluewallet. Download BlueWallet on your smart phone, hit the plus icon and select import wallet and enter the 24 words with spaces in between to perform the import.
@@ -45,14 +54,7 @@ https://user-images.githubusercontent.com/84944042/145740585-2f8f1b8e-8856-42db-
 <br>
 <br>
 4. After all transactions have at least one confirmation, all funds should appear in bluewallet. Note that, if any of the closures are force closures, there will be a timelock for you to spend those funds. DO NOT POWER OFF THE NODE UNTIL ALL CHANNELS ARE FULLY CLOSED. Ideally wait upto 3 weeks before powering off the node to make sure all funds have returned.
-<br>
-<br>
-Need help? Plebs are always willing to help, download the telegram app and join the telegram group `PLEBNET` and ask for help.
-https://t.me/plebnet or visit https://plebnet.wiki
 
-<br>
-
-DO NOT EVER GIVE ANYONE the seed phrase, wallet password or SSH Password. YOUR FUNDS WILL BE STOLEN IF YOU DO.
 
 
 
