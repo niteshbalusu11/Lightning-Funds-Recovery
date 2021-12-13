@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/84944042/145739503-e7865cc7-16d8-422e-
 https://user-images.githubusercontent.com/84944042/145739481-5959bb28-3250-45dd-b05d-65820bbabbe6.MP4
 
 <br>
-3. Copy the transaction ID and search in mempool.space and wait for one confirmation, upon a confirmation, refresh the imported wallet in Bluewallet and the funds should appear. A confirmation implies the block your transaction is inside moves from left side to the right side (from blue to green color).
+3. Copy the transaction ID and search in mempool.space and wait for one confirmation, upon a confirmation, refresh the imported wallet in Bluewallet and the funds should appear. A confirmation implies the block your transaction is inside moves from left side to the right side (from green to blue color).
 <br>
 
 https://user-images.githubusercontent.com/84944042/145740585-2f8f1b8e-8856-42db-8ad0-99e3fc3fb04d.mov
