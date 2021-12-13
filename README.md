@@ -1,7 +1,7 @@
 ## Recover Funds on the Lightning Network for your Family.
 
 ### Don't take your private keys to your grave.
-[![Watch the video](https://img.youtube.com/vi/Pz4io1CQh34/default.jpg)](https://www.youtube.com/watch?v=Pz4io1CQh34)
+[![Watch the video](https://img.youtube.com/vi/Pz4io1CQh34/default.jpg)](https://youtu.be/Pz4io1CQh34)
 
 
 
