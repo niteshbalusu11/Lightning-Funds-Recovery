@@ -2,10 +2,7 @@
 
 ### Don't take your private keys to your grave.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz4io1CQh34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</p>
+[![Don't take your private keys to the grave](https://res.cloudinary.com/marcomontalbano/image/upload/v1639409820/video_to_markdown/images/youtube--Pz4io1CQh34-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Pz4io1CQh34 "Don't take your private keys to the grave")
 
 
 <br>
