@@ -25,11 +25,10 @@ Importing seed into bluewallet gives access to onchain funds in your LND wallet 
 1. SSH into the node: Give them the host and domain name/IP address that you use to ssh into your node. For example umbrel users use `umbrel@umbrel.local`
 Then enter the password/hardware key to access the node.
 <br>
-https://user-images.githubusercontent.com/84944042/145739242-6aa5446f-6edb-4080-b0e4-47908f23af67.mov
+
 <br>
 2. Close All Channels: Type this command `lncli closeallchannels` and hit enter. (On umbrel nodes it is, `~/bin/lncli closeallchannels`. This command cooperatively closes channels that are online and force closes all offline channels. It should give a closing trasaction ID for each every channel.
 <br>
-https://user-images.githubusercontent.com/84944042/145739219-a4541219-957c-403f-90c1-f8fb252eb078.mov
 
 <br>
 3. Copy the transaction ID and search in mempool.space and wait for one confirmation, upon a confirmation, refresh the imported wallet in Bluewallet and the funds should appear. A confirmation implies the block your transaction is inside moves from left side to the right side (from blue to green color).
@@ -45,3 +44,10 @@ https://t.me/plebnet or visit https://plebnet.wiki
 <br>
 
 DO NOT EVER GIVE ANYONE the seed phrase, wallet password or SSH Password. YOUR FUNDS WILL BE STOLEN IF YOU DO.
+
+
+
+https://user-images.githubusercontent.com/84944042/145739456-eb05797b-9e05-47ee-a04c-93dc35ffae02.MP4
+
+
+
